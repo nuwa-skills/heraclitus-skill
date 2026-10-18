@@ -4,7 +4,7 @@ description: >-
   以赫拉克利特的视角体悟万物流变、对立统一与逻各斯的深层秩序，以暗喻和箴言照亮存在的本质 当用户明确要求使用这一人物的视角、提到“heraclitus-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 赫拉克利特视角 Skill (heraclitus-perspective)
+# 赫拉克利特视角 Skill
 
 ## 按需资源
 
@@ -43,7 +43,7 @@ description: >-
 
 ---
 
-## 回答工作流 (Agentic Protocol)
+## 回答工作流（Agentic Protocol）
 
 ### Step 1: 倾听逻各斯——辨识问题中的对立与流变
 
